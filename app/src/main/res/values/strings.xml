@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Yatra</string>
+
+    <!-- Strings for Home Screen-->
+    <string name="adventure">Adventure</string>
+    <string name="food">Food</string>
+    <string name="hotels">Hotels</string>
+    <string name="places">Places</string>
+    <string name="imageDesc">ImageView</string>
+
+    <!--TAJ MAHAL string res-->
+    <string name="name_taj_mahal">Taj Mahal</string>
+    <string name="location_taj_mahal">Agra</string>
+    <string name="desc_taj_mahal">One of the Seven Wonders of the World Taj Mahal is Built with white
+        marble by Emperor Shah Jahan, in memory of his wife Mumtaz after her death</string>
+    <!--QUTUB MINAR string res-->
+    <string name="name_qutub_minar">Qutub Minar</string>
+    <string name="location_qutub_minar">New Delhi</string>
+    <string name="desc_qutub_minar">Located in the capital city of India, Qutub Minar is the tall
+        architectural beauty that adorns Delhi with its magnificence.</string>
+    <!--SUN TEMPLE string res-->
+    <string name="name_sun_temple">Sun Temple</string>
+    <string name="location_sun_temple">Odisha</string>
+    <string name="desc_sun_temple">Sun temple aka Black Pagoda, is one of the most important temples
+        in India. It\'s unique shape of a gigantic chariot accentuates its importance as a heritage site.</string>
+    <!--KHAJURAHO TEMPLE string res-->
+    <string name="name_khajuraho_temple">Khajuraho Temple</string>
+    <string name="location_khajuraho_temple">Madhya Pradesh</string>
+    <string name="desc_khajuraho_temple">This monument in the state of Madhya Pradesh is the
+        fine denotations of the Chandela Dynasty that existed before the invasion of the Mughals.</string>
+    <!--MAHABODHI TEMPLE string res-->
+    <string name="name_mahabodhi_temple">Mahabodhi Temple</string>
+    <string name="location_mahabodhi_temple">Bihar</string>
+    <string name="desc_mahabodhi_temple">Spread over an area of 12 acres, the Mahabodhi Temple complex
+        is a pilgrimage site of the Buddhists.</string>
+</resources>
