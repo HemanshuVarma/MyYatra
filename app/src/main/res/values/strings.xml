@@ -2,35 +2,135 @@
     <string name="app_name">My Yatra</string>
 
     <!-- Strings for Home Screen-->
-    <string name="adventure">Adventure</string>
+    <string name="adventure">Trips</string>
     <string name="food">Food</string>
     <string name="hotels">Hotels</string>
     <string name="places">Places</string>
     <string name="imageDesc">ImageView</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_message">Are you sure you want to exit?</string>
+    <string name="greeting_message"><b>An Tour Guide App</b> \nThis App suggests <i>Top 5</i> \n \t
+        - Heritage Places \n \t - Luxury Hotels \n \t - Cuisine &amp; \n \t - Adventure/Trip Places in India.</string>
 
-    <!--TAJ MAHAL string res-->
+
+    <!--TAJ MAHAL PLACES-->
     <string name="name_taj_mahal">Taj Mahal</string>
     <string name="location_taj_mahal">Agra</string>
     <string name="desc_taj_mahal">One of the Seven Wonders of the World Taj Mahal is Built with white
         marble by Emperor Shah Jahan, in memory of his wife Mumtaz after her death</string>
-    <!--QUTUB MINAR string res-->
+
+    <!--QUTUB MINAR PLACES-->
     <string name="name_qutub_minar">Qutub Minar</string>
     <string name="location_qutub_minar">New Delhi</string>
     <string name="desc_qutub_minar">Located in the capital city of India, Qutub Minar is the tall
         architectural beauty that adorns Delhi with its magnificence.</string>
-    <!--SUN TEMPLE string res-->
+
+    <!--SUN TEMPLE PLACES-->
     <string name="name_sun_temple">Sun Temple</string>
     <string name="location_sun_temple">Odisha</string>
     <string name="desc_sun_temple">Sun temple aka Black Pagoda, is one of the most important temples
         in India. It\'s unique shape of a gigantic chariot accentuates its importance as a heritage site.</string>
-    <!--KHAJURAHO TEMPLE string res-->
+
+    <!--KHAJURAHO TEMPLE PLACES-->
     <string name="name_khajuraho_temple">Khajuraho Temple</string>
     <string name="location_khajuraho_temple">Madhya Pradesh</string>
     <string name="desc_khajuraho_temple">This monument in the state of Madhya Pradesh is the
         fine denotations of the Chandela Dynasty that existed before the invasion of the Mughals.</string>
-    <!--MAHABODHI TEMPLE string res-->
+
+    <!--MAHABODHI TEMPLE PLACES-->
     <string name="name_mahabodhi_temple">Mahabodhi Temple</string>
     <string name="location_mahabodhi_temple">Bihar</string>
     <string name="desc_mahabodhi_temple">Spread over an area of 12 acres, the Mahabodhi Temple complex
         is a pilgrimage site of the Buddhists.</string>
+
+    <!--TAJ FALAKNUMA HOTEL-->
+    <string name="name_taj_falaknuma">Taj Falaknuma</string>
+    <string name="location_taj_falaknuma">Hyderabad</string>
+    <string name="desc_taj_falaknuma">Taj Falaknuma Palace, the former palace of the Nizam of
+        Hyderabad is now a Taj heritage hotel.</string>
+
+    <!--TAJ LAKE HOTEL-->
+    <string name="name_taj_lake">Taj Lake</string>
+    <string name="location_taj_lake">Udaipur</string>
+    <string name="desc_taj_lake">Matchless hospitality, award-wining restaurants, impeccable
+        services are offered at Taj Lake Palace in Udaipur.</string>
+
+    <!--THE TAMARA COORG HOTEL-->
+    <string name="name_tamara_coorg">The Tamara</string>
+    <string name="location_tamara_coorg">Coorg</string>
+    <string name="desc_tamara_coorg">A picture-perfect location awaits your arrival at
+        The Tamara in the mountains of Coorg.</string>
+
+    <!--TRIDENT GURUGRAM HOTEL-->
+    <string name="name_trident">Trident</string>
+    <string name="location_trident">Gurugram</string>
+    <string name="desc_trident">Spread amid 7 acres of walkways, verdant beauty and a fountain,
+        Trident Gurugram is an place of entertainment and food options for the guests.</string>
+
+    <!--WILDFLOWER HALL SHIMLA HOTEL-->
+    <string name="name_wildflower_shimla">Wildflower Hall</string>
+    <string name="location_wildflower_shimla">Shimla</string>
+    <string name="desc_wildflower_shimla">Positioned at a height of 8250ft and in proximity of Shimla mall,
+        Wildflower is a landmark of superior comfort, with spectacular views of Himalayas.</string>
+
+    <!--HYDERABADI BIRYANI FOOD-->
+    <string name="name_biryani_hyd">Biryani</string>
+    <string name="location_biryani_hyd">Hyderabad</string>
+    <string name="desc_biryani_hyd">It\'s the perfect choice for foodies who prefer having their
+        rice with spice, interspersed with tender peaces of meat or chicken.</string>
+
+    <!--BUTTER CHICKEN FOOD-->
+    <string name="name_butter_chicken">Butter Chicken</string>
+    <string name="location_butter_chicken">Punjab</string>
+    <string name="desc_butter_chicken">This gorgeous plate is the reason every Punjabi takes pride
+        a beautiful mix of spices, served with a dollop of melting cream or butter on top.</string>
+
+    <!--CHOLE BHATURE FOOD-->
+    <string name="name_chole_bhature">Chole Bhature</string>
+    <string name="location_chole_bhature">Punjab</string>
+    <string name="desc_chole_bhature">Chole Bhature is a dish from the Punjab region of the India.
+        This dish is a combination of chana masala (spicy white chickpeas) and bhatura.</string>
+
+    <!--DHOKLA FOOD-->
+    <string name="name_dhokla">Dhokla</string>
+    <string name="location_dhokla">Gujarat</string>
+    <string name="desc_dhokla">This steamed cake made from gram flour and channa dal is one of
+        the best things to come out of Gujarat.</string>
+
+    <!--SEEKH KEBABS FOOD-->
+    <string name="name_seekh_kebabs">Seekh Kebabs</string>
+    <string name="location_seekh_kebabs">Lucknow</string>
+    <string name="desc_seekh_kebabs">A famous Nawabi recipe from Lucknow. It is made with the finest
+        meat of the lamb and a few spices.</string>
+
+    <!--ROOPKUND ADVENTURE-->
+    <string name="name_roopkund">Roopkund Trek</string>
+    <string name="location_roopkund">Uttarakhand</string>
+    <string name="desc_roopkund">A heaven for trekkers, but with a horrific twist as you head to the
+        glacial Roopkund Lake. The path of this trek actually has hundreds of human skeletons scattered all over.</string>
+
+    <!--FLY BOARDING GOA ADVENTURE-->
+    <string name="name_fly_boarding">Flyboarding</string>
+    <string name="location_fly_boarding">Goa</string>
+    <string name="desc_fly_boarding">Goa is the ultimate destination for water adventure sports
+        in India and flyboarding at Baina beach is truly amazing.</string>
+
+    <!--PARA SAILING ADVENTURE-->
+    <string name="name_parasailing">Parasailing</string>
+    <string name="location_parasailing">Kerala</string>
+    <string name="desc_parasailing">An Aerial view at Payyambalam beach would be a thrilling
+        experience to watch the blue Arabian Sea while sailing over it up till 300ft in sky.</string>
+
+    <!--LADAKH ADVENTURE-->
+    <string name="name_ladakh">Shimla to Ladakh</string>
+    <string name="location_ladakh">Himalaya</string>
+    <string name="desc_ladakh">Ladakh is undoubtedly one of the best destination for an adventure
+        trip in India. Which starts from Shimla and goes till Leh, crossing some of the spine chilling destinations!</string>
+
+    <!--SKY DIVING MYSORE ADVENTURE-->
+    <string name="name_skydiving">Skydiving</string>
+    <string name="location_skydiving">Mysore</string>
+    <string name="desc_skydiving">Mysore is the best place for this adventurous trip in India with
+        fascinating view of blue sky and extreme greenery sprawled across the valley.</string>
+
 </resources>

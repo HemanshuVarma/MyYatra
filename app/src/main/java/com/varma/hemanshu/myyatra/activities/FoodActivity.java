@@ -5,11 +5,18 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
 import com.varma.hemanshu.myyatra.R;
+import com.varma.hemanshu.myyatra.fragments.FoodFragment;
+
 
 public class FoodActivity extends AppCompatActivity {
+
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_list_view);
+        setContentView(R.layout.activity_category);
+        //Setting up Fragment for Food Activity
+        getSupportFragmentManager().beginTransaction().replace(R.id.category_container, new FoodFragment()).commit();
+
     }
 }
