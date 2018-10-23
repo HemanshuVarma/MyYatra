@@ -23,10 +23,6 @@ This App suggests **Top 5** _Places, Hotels, Food and Adventure Places_ in India
 
 ![screenshot2](https://user-images.githubusercontent.com/36810824/47360419-1c963780-d6ed-11e8-8e67-40ea32d36f7e.jpg)
 
-### Review 
-
-![review](https://user-images.githubusercontent.com/36810824/47355506-26b13980-d6df-11e8-95fa-438a154b6cea.png)
-
 ### Walkthrough
 
 [![Youtube](https://user-images.githubusercontent.com/36810824/47357866-a04c2600-d6e5-11e8-860b-60840d810f6e.png)](https://youtu.be/IEunwrtTCw4)
