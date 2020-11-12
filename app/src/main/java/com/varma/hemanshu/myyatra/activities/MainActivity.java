@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         new AlertDialog.Builder(this)
                 .setTitle(R.string.app_name)
                 .setMessage(R.string.greeting_message)
-                .setPositiveButton(android.R.string.yes, null).create().show();
+                .setPositiveButton(android.R.string.yes, null).setCancelable(false).create().show();
     }
 
     /**

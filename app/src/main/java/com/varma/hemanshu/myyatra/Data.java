@@ -7,10 +7,10 @@ package com.varma.hemanshu.myyatra;
  */
 public class Data {
 
-    private int mImageResourceId;
-    private int mName;
-    private int mLocation;
-    private int mDescription;
+    private final int mImageResourceId;
+    private final int mName;
+    private final int mLocation;
+    private final int mDescription;
 
     //Getter for Image Resource
     public int getImageResourceId() {

@@ -14,7 +14,7 @@ import com.varma.hemanshu.myyatra.fragments.PlacesFragment;
 
 public class CategoryAdapter extends FragmentPagerAdapter {
 
-    private Context mContext;
+    private final Context mContext;
 
     public CategoryAdapter(Context context, FragmentManager fm) {
         super(fm);

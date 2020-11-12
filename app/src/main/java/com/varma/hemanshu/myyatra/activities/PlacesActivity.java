@@ -14,7 +14,7 @@ public class PlacesActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category);
-        //Setting up Fragment for PlacesActitivty
+        //Setting up Fragment for PlacesActivity
         getSupportFragmentManager().beginTransaction().replace(R.id.category_container, new PlacesFragment()).commit();
 
     }
